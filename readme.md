@@ -1,0 +1,1 @@
+This script simply converts the English and Japanese romanization in the title to Japanese by swapping the TITLE and TITLEJA entries. Generally used for processing tja files in ESE Project.
